@@ -1,0 +1,1 @@
+Repositório criado com o intuito de guardar os algoritmos criados durante as aulas de grafos.
